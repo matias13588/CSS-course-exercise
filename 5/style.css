@@ -1,0 +1,15 @@
+ol{
+    font-size: 1cm;
+}
+
+li:nth-child(2n){
+    color: red;
+}
+
+li:first-child{
+    color: green;
+}
+
+li:last-child{
+    color: green;
+}
